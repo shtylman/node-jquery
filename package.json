@@ -28,14 +28,6 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {
-    "jsdom": "~0.2.14",
-    "htmlparser": "1.7.6",
-    "xmlhttprequest": "~1.4.2",
-    "location": "0.0.1",
-    "navigator": "~1.0.1",
-    "contextify": "~0.1.3"
-  },
   "devDependencies": {
     "grunt": "~0.3.8",
     "nodeunit": "~0.7.4"
